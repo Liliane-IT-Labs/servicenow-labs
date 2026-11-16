@@ -347,8 +347,6 @@ Find knowledge article **`KB0010003`**, give feedback that it was helpful, rate 
 
 16. Type a brief, genuine comment reflecting your experience (for example, **“The instructions were easy to follow.”** if that is true for you).
 17. Click **Submit** to save your comment.
-<img width="1121" height="720" alt="image" src="https://github.com/user-attachments/assets/13165b5e-a969-4ed4-80a5-d31a8379adb5" />
-
 <img width="1075" height="413" alt="image" src="https://github.com/user-attachments/assets/0c746236-bf63-4fda-a167-7125c5c151c7" />
 
 
